@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Dy!
+# 👋 Olá, 𝗛𝗜𝗖-𝗧𝗘𝗖𝗞𝗦 𝗣𝗟𝗨𝗦!
 🎮 Modder Android | 💻 Criador do Hic-Tecks  
 🔧 Termux, Shell Script, automação e caos criativo.
 
@@ -13,8 +13,7 @@
 ---
 
 ## 📫 Como me encontrar
-- 📷 Telegram: [@seuuser]([(https://t.me/HicTecksPlus))
-- 💬 Discord: Dy#1234
+- 📷 Telegram: [@HicTecksPlus]([(https://t.me/HicTecksPlus)])
 
 ---
 
