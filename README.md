@@ -13,7 +13,7 @@
 ---
 
 ## 📫 Como me encontrar
-- 📷 Telegram: [@HicTecksPlus]([(https://t.me/HicTecksPlus)])
+- 📷 Telegram: [**HicTecksPlus**](https://t.me/HicTecksPlus)
 
 ---
 
