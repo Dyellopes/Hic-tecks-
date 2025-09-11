@@ -1,4 +1,4 @@
-# 👋 Olá, 𝗛𝗜𝗖-𝗧𝗘𝗖𝗞𝗦 𝗣𝗟𝗨𝗦!
+# 👋 Olá, eu sou 𝗛𝗜𝗖-𝗧𝗘𝗖𝗞𝗦 𝗣𝗟𝗨𝗦!
 🎮 Modder Android | 💻 Criador do Hic-Tecks  
 🔧 Termux, Shell Script, automação e caos criativo.
 
