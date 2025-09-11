@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.postimg.cc/g2TzbRkL/teks-plus.jpg" alt="Hic-Tecks Banner" width="800" style= "border-radius:15px;"/>
+  <img src="https://i.postimg.cc/g2TzbRkL/teks-plus.jpg" alt="Hic-Tecks Banner" width="800" style="border-radius:15px;"/>
 </p>
 
 # 👋 Olá, eu sou 𝗛𝗜𝗖-𝗧𝗘𝗖𝗞𝗦 𝗣𝗟𝗨𝗦!
